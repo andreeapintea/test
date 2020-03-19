@@ -24,6 +24,6 @@ public class ProcesorCautare implements Procesor {
             }
         }
 
-        return 5;
+        return 67;
     }
 }
